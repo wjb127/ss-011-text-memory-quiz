@@ -36,3 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 원격 파이프라인 테스트: 2026-11-23 클라우드 에이전트가 추가함
+
+윈도우 경로 테스트: 2026-11-23 윈도우에서 빌드·push함
